@@ -1,6 +1,6 @@
 ### Hey 👋🏽, Welcome!
 
-Hi, I'm Breno Menezes, i'm a Full Stack Developer 🚀 from Brazil, currently, I'm a Computer Science student at [@IFCE](https://ifce.edu.br/) and a Freelancer 👨🏽‍💻. Beside's programming, I enjoy surfing, yeah, in waves, playing acoustic guitar and traveling.
+Hi, I'm Breno Menezes, i'm a Front End Developer 🚀 from Brazil, currently, I'm a Computer Science student at [@IFCE](https://ifce.edu.br/) and a Freelancer 👨🏽‍💻. Beside's programming, I enjoy surfing, yeah, in waves, playing acoustic guitar and traveling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
