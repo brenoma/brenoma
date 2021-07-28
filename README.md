@@ -1,12 +1,12 @@
 <h2 align="center"> Hey 👋🏽, Welcome!</h2></br>
 
-Hi, I'm Breno Menezes, i'm a Front End Developer 🚀 from Brazil, currently, I'm a Computer Science student at [@IFCE](https://ifce.edu.br/) and a Freelancer 👨🏽‍💻. Beside's programming, I enjoy surfing, yeah, in waves, playing acoustic guitar and traveling.</br></br></br>
+Hi, I'm Breno Menezes, i'm a Front End Developer 🚀 from Brazil, currently, I'm a Computer Science student at [@IFCE](https://ifce.edu.br/) and woking as a Fullstack Developer 👨🏽‍💻. Beside's programming, I enjoy surfing, yeah, in waves, playing acoustic guitar and traveling.</br></br></br>
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 #### **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Pethood](https://github.com/brenoma/pethood-mobile);
+- 👨🏽‍💻 I’m currently working on [Tallos](https://tallos.com.br/);
 - 🌱 I’m currently learning ReactJS and VueJS; 
 - 👯 I’m looking to collaborate on some project, feel free to talk to me 🤝;
 - 🤔 I’m looking for help with Backend 😭;
