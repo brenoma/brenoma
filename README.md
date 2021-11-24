@@ -1,18 +1,18 @@
 <h2 align="center"> Hey 👋🏽, Welcome!</h2></br>
 
-Hi, I'm Breno Menezes, i'm a DevOps 🚀 from Brazil, currently, I'm a Computer Science student at [@IFCE](https://ifce.edu.br/) and woking as a Fullstack Developer 👨🏽‍💻. Beside's programming, I enjoy surfing, yeah, in waves, playing acoustic guitar and traveling.</br></br></br>
+Hi, I'm Breno Menezes, i'm a DevOps 🚀 from Brazil, currently, I'm a Computer Science student at [@IFCE](https://ifce.edu.br/) and woking as a Software Developer 👨🏽‍💻. Beside's programming, I enjoy surfing, yeah, in waves, playing acoustic guitar and traveling.</br></br></br>
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 #### **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [Tallos](https://tallos.com.br/);
-- 🌱 I’m currently learning VueJS, NestJS, Docker, Cypress; 
+- 🌱 I’m currently learning VueJS, NestJS, Docker, Cypress, Ansible; 
 - 👯 I’m looking to collaborate on some project, feel free to talk to me 🤝;
-- 🤔 I’m looking for help with Backend 😭;
+- 🤔 I’m looking for help with DevOps 😭;
 - 💬 Ask me about anything, if I can I'll be happy to help;
 - 📫 How to reach me: breno.menezes.alencar05@aluno.ifce.edu.br;
-<!-- - 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view) -->
+- 📝[Resume](https://drive.google.com/file/d/14O4YmDdcUuoK4kZ2AF06Vdy_2w0h6Yn0/view?usp=sharing)
 </br>
 
 
