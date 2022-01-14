@@ -7,7 +7,7 @@ Hi, I'm Breno Menezes, i'm a DevOps 🚀 from Brazil, currently, I'm a Computer 
 #### **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [Instituto Atlântico](https://atlantico.com.br/);
-- 🌱 I’m currently learning VueJS, NestJS, Java, Docker, Cypress, Ansible; 
+- 🌱 I’m currently learning Kotlin, Java, Docker, Ansible; 
 - 👯 I’m looking to collaborate on some project, feel free to talk to me 🤝;
 - 🤔 I’m looking for help with DevOps 😭;
 - 💬 Ask me about anything, if I can I'll be happy to help;
