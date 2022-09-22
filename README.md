@@ -1,13 +1,14 @@
 <h2 align="center"> Hey 👋🏽, Welcome!</h2></br>
 
-Hi, I'm Breno Menezes, i'm a DevOps 🚀 from Brazil, currently, I'm a Computer Science student at [@IFCE](https://ifce.edu.br/) and woking as a Software Developer 👨🏽‍💻. Beside's programming, I enjoy surfing, yeah, in waves, playing acoustic guitar and traveling.</br></br></br>
+Hi, I'm Breno Menezes, i'm a Software Engineer 🚀 from Brazil, currently working with Java. I'm a Computer Science student at [@IFCE](https://ifce.edu.br/) 👨🏽‍💻. Beside's programming, I enjoy surfing, yeah, in waves, playing acoustic guitar and traveling.</br></br></br>
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 #### **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [Instituto Atlântico](https://atlantico.com.br/);
-- 🌱 I’m currently learning Kotlin, Java, Docker, Ansible; 
+- 👨 Allocated at [HP Inc.](https://www.hp.com/)
+- 🌱 I’m currently learning Spring, Java, Docker and Kubernets; 
 - 👯 I’m looking to collaborate on some project, feel free to talk to me 🤝;
 - 🤔 I’m looking for help with DevOps 😭;
 - 💬 Ask me about anything, if I can I'll be happy to help;
