@@ -8,11 +8,11 @@ Hi, I'm Breno Menezes, i'm a Software Engineer 🚀 from Brazil, currently worki
 
 - 👨🏽‍💻 I’m currently working on [Instituto Atlântico](https://atlantico.com.br/);
 - 👨 Allocated at [HP Inc.](https://www.hp.com/)
-- 🌱 I’m currently learning Spring, Java, Docker and Kubernets; 
+- 🌱 I’m currently learning Spring Boot, Java, K8S, Terraform and Go; 
 - 👯 I’m looking to collaborate on some project, feel free to talk to me 🤝;
 - 🤔 I’m looking for help with DevOps 😭;
 - 💬 Ask me about anything, if I can I'll be happy to help;
-- 📫 How to reach me: breno.menezes.alencar05@aluno.ifce.edu.br;
+- 📫 How to reach me: silocorb@proton.me;
 - 📝[Resume](https://drive.google.com/file/d/14O4YmDdcUuoK4kZ2AF06Vdy_2w0h6Yn0/view?usp=sharing)
 </br>
 
@@ -22,12 +22,12 @@ Hi, I'm Breno Menezes, i'm a Software Engineer 🚀 from Brazil, currently worki
 
 <h3 align="center">On flow:</h3>
 <div align="center">
-<a href="https://github.com/brenoma/evoxnews">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brenoma&repo=evoxnews" />
+<a href="https://github.com/brenoma/trail-devops-ascan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brenoma&repo=trail-devops-ascan" />
 </a>
 
-<a href="https://github.com/brenoma/snakegame">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brenoma&repo=snakegame" />
+<a href="https://github.com/brenoma/trail-backend-ascan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brenoma&repo=trail-backend-ascan" />
 </a>
 </div>
 <br />
@@ -55,18 +55,18 @@ Hi, I'm Breno Menezes, i'm a Software Engineer 🚀 from Brazil, currently worki
 
 <div align="center">
   <a href="https://twitter.com/BSilocorb">
-    <img align="center" alt="Breno Silocórb | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    <img align="center" alt="Breno Silocórb | Twitter" src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/brenoma/">
-    <img align="center" alt="Breno's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img align="center" alt="Breno's LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://t.me/eusouumsilocorb">
-    <img align="center" alt="Breno's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+    <img align="center" alt="Breno's Telegram"src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/brenoma/">
-    <img align="center" alt="Breno's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    <img align="center" alt="Breno's Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.reddit.com/user/brenoma/">
-    <img align="center" alt="Breno's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+    <img align="center" alt="Breno's Reddit" src="https://img.shields.io/badge/-Reddit-%23E4405F?style=for-the-badge&logo=reddit&logoColor=white&" />
   </a>
 </div>
