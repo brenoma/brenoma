@@ -2,6 +2,9 @@
 
 Hi, I'm Breno Menezes, i'm a Software Engineer 🚀 from Brazil, currently working with Java. I'm a Computer Science student at [@IFCE](https://ifce.edu.br/) 👨🏽‍💻. Beside's programming, I enjoy surfing, yeah, in waves, playing acoustic guitar and traveling.</br></br></br>
 
+---
+</br>
+
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 #### **Talking about Personal Stuffs:**
@@ -16,23 +19,26 @@ Hi, I'm Breno Menezes, i'm a Software Engineer 🚀 from Brazil, currently worki
 - 📝[Resume](https://drive.google.com/file/d/14O4YmDdcUuoK4kZ2AF06Vdy_2w0h6Yn0/view?usp=sharing)
 </br>
 
+---
+</br>
 
-
-![Breno's github stats](https://github-readme-stats.vercel.app/api?username=brenoma&show_icons=true&hide_border=true)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=brenoma&show_icons=true&hide_border=true&theme=transparent" /></div>
 
 <h3 align="center">On flow:</h3>
 <div align="center">
-<a href="https://github.com/brenoma/trail-devops-ascan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brenoma&repo=trail-devops-ascan" />
-</a>
+  <a href="https://github.com/brenoma/trail-devops-ascan">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brenoma&repo=trail-devops-ascan&theme=transparent" />
+  </a>
 
 <a href="https://github.com/brenoma/trail-backend-ascan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brenoma&repo=trail-backend-ascan" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brenoma&repo=trail-backend-ascan&theme=transparent" />
 </a>
 </div>
 <br />
 <br />
 
+---
+</br>
 
 <h3 align="center">Technologies:</h3> 
 
@@ -50,8 +56,10 @@ Hi, I'm Breno Menezes, i'm a Software Engineer 🚀 from Brazil, currently worki
   <code><img title="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="64" /></code>
 </div>
 
+---
+</br>
 
-<h2 align="center">Social Medias:</h2>
+<h3 align="center">Social Medias:</h3>
 
 <div align="center">
   <a href="https://twitter.com/BSilocorb">
