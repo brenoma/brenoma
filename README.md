@@ -9,8 +9,7 @@ Hi, I'm Breno Menezes, i'm a Software Engineer 🚀 from Brazil, currently worki
   
 #### **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Instituto Atlântico](https://atlantico.com.br/);
-- 👨 Allocated at [HP Inc.](https://www.hp.com/)
+- 👨🏽‍💻 I’m currently working on [Pagseguro](https://pagseguro.uol.com.br/);
 - 🌱 I’m currently learning Spring Boot, Java, K8S, Terraform and Go; 
 - 👯 I’m looking to collaborate on some project, feel free to talk to me 🤝;
 - 🤔 I’m looking for help with DevOps 😭;
