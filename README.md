@@ -1,6 +1,6 @@
 <h2 align="center"> Hey 👋🏽, Welcome!</h2></br>
 
-Hi, I'm Breno Menezes, i'm a Software Engineer 🚀 from Brazil, currently working with Java. I'm a Computer Science student at [@IFCE](https://ifce.edu.br/) 👨🏽‍💻. Beside's programming, I enjoy surfing, yeah, in waves, playing acoustic guitar and traveling.</br></br></br>
+Hi, I'm Breno Menezes, i'm a Software Engineer 🚀 from Brazil, currently working with Java. I'm a Computer Science student at [@IFCE](https://ifce.edu.br/) 👨🏽‍💻 I've started my programming journey since 2004 creating OT servers (Lua Script and C++). Beside's programming, I enjoy surfing, yeah, in waves, playing acoustic guitar and traveling.</br></br></br>
 
 ---
 </br>
